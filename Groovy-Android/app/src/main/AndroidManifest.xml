@@ -3,7 +3,7 @@
     package="com.mscharhag.groovytodo"  >
 
     <application
-        android:name="com.mscharhag.groovytodo.ToDoApplication"
+        android:name="com.mscharhag.groovytodo.ToDoApp"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name">
